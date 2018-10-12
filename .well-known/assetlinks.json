@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.hsharma.sharemyapp",
+    "sha256_cert_fingerprints":
+    ["4B:FE:A7:4E:EE:1C:09:89:74:E1:10:28:5F:A1:C5:FE:CF:1D:A5:3B:A7:73:E6:A6:D3:5D:01:7C:D9:5A:81:99"]
+  }
+}]
